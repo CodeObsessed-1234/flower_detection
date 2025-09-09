@@ -1,9 +1,9 @@
 ---
 title: "Flower Classification Project 🌸"
 description: "A project demonstrating flower image classification using CNN / pre-trained models with a sample dataset."
-author: "Your Name"
+author: "Nitin Dwivedi"
 date: 2025-09-09
-license: "MIT"
+license: "All Rights Reserved"
 ---
 
 # Flower Classification Project 🌸
